@@ -150,7 +150,24 @@ button{
     padding-right: 50px;
     padding-left: 50px;
 }
-}
+
+
+/*
+.cnbtn{
+  border: 4px solid #DDFFFD;
+  background:  transparent;
+  color:white;
+  box-sizing: border-box;
+  border-radius: 100px;
+  cursor: pointer;
+  left: 560px;
+    line-height: 50px;
+    margin-top: 50px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 300px;
+}*/
 /*input{
     width: 100%;
   padding: 12px 20px;
